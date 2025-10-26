@@ -1,26 +1,18 @@
-# Hi there, I'm recode0000 👋
-
-## About Me
-
-Welcome to my GitHub profile! I'm passionate about coding and building projects.
-
-## GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recode0000&show_icons=true&theme=radical&hide_border=true&count_private=true)
+# 👨‍💻 recode0000
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recode0000&layout=compact&theme=radical&hide_border=true)
+**Building • Learning • Creating**
 
-</div>
+---
 
-## Activity & Contributions
+### 🔥 GitHub Activity
 
-### Contribution Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=recode0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&hide=issues)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recode0000&theme=radical&hide_border=true)
+---
 
-### Contribution Graph
+### 📊 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recode0000/recode0000/output/github-contribution-grid-snake-dark.svg">
@@ -28,14 +20,10 @@ Welcome to my GitHub profile! I'm passionate about coding and building projects.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/recode0000/recode0000/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-## Connect with Me
-
-Feel free to reach out or follow my work!
-
-![Profile Views](https://komarev.com/ghpvc/?username=recode0000&color=blueviolet&style=flat-square)
+<sub>_generated with [Platane/snk](https://github.com/Platane/snk)_</sub>
 
 ---
 
-⭐ From [recode0000](https://github.com/recode0000)
+![](https://komarev.com/ghpvc/?username=recode0000&color=58A6FF&style=for-the-badge)
+
+</div>

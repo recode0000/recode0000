@@ -1,10 +1,3 @@
-# Hi there, I'm recode0000 👋
-
-## About Me
-
-Welcome to my GitHub profile! I'm passionate about coding and building projects.
-
-## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recode0000/recode0000/output/github-contribution-grid-snake-dark.svg">
